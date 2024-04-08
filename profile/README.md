@@ -6,6 +6,8 @@ Our innovation plan: https://www.notion.so/Drive-carefully-app-Business-plan-f8f
 Our business plan: https://docs.google.com/document/d/1QYQZAfRNV3L8a4LWVS3npbgLp51eJqIN/edit?usp=sharing&ouid=108596661377989700845&rtpof=true&sd=true
 
 ## Overview
+![image](https://github.com/Android-development-group-13/.github/assets/112544437/02ce4a28-7f9c-4d44-b0ad-a3e1ffd9eaed)
+
 
 SafeDrive is an Android mobile application designed to enhance driver safety by providing real-time alerts and assistance to drivers. Our app aims to reduce the risk of accidents and promote safer driving practices, particularly for professionals such as truck drivers and delivery personnel.
 
