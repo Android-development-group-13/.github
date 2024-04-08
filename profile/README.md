@@ -1,6 +1,9 @@
 # SafeDrive App README
 
 Welcome to SafeDrive, your ultimate solution for driver safety while on the road! This README will guide you through the features, development process, and important information about our app.
+Our Figma link: https://www.figma.com/file/t5T9qX00E72fJ7Es7rtxch/SafeDrive?type=design&node-id=0%3A1&mode=design&t=Ogp3uBr9DA9VSZMR-1
+Our innovation plan: https://www.notion.so/Drive-carefully-app-Business-plan-f8fc765027724aa4b461bf5c9ccd1dde?pvs=4
+Our business plan: https://docs.google.com/document/d/1QYQZAfRNV3L8a4LWVS3npbgLp51eJqIN/edit?usp=sharing&ouid=108596661377989700845&rtpof=true&sd=true
 
 ## Overview
 
